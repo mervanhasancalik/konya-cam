@@ -4,6 +4,8 @@ Real-time city camera dashboard for Konya, Turkey. View 17 live municipal camera
 
 ![Konya Cam](https://img.shields.io/badge/status-live-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue)
 
+<video src="https://github.com/mervanhasancalik/konya-cam/raw/main/preview.mp4" width="100%" autoplay loop muted></video>
+
 ## Features
 
 - **Interactive Map** — Pan, zoom, and explore Konya with dark monochrome CartoDB tiles
